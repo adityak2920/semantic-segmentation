@@ -18,4 +18,4 @@ Then in the ```notebooks/``` section there are several notebooks:
   5. ```fpn_segmentation.ipynb```: Code for training ```Feature Pyramid Network(FPN)``` for segmentation using ```segmentation_models_pytorch```.
   
   
-I have used these notebooks mainly in Kaggle competition for semantic Segmentation.
+I have used these notebooks mainly in Kaggle competition for semantic Segmentation. This notebook can also be run in browser, just click on the binder badge to run these notebooks in browser without installing something.
