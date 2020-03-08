@@ -1,4 +1,6 @@
 # Semantic Segmentation
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/adityak2920/semantic-segmentation/c7245c6ba024982aec0bb54aebdb059ecdf21da0)
+
   Semantic Segmentation is the process of assigning a label to every pixel in the image. This is in contrast to classification, where a single label is assigned to the entire picture. Semantic segmentation treats multiple objects of the same class as a single entity. On the other hand, there is another type called instance segmentation that treats multiple objects of the same class as distinct individual objects (or instances).
   
 ![](imgs/sem_ins.png)
